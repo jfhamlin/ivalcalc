@@ -1,5 +1,5 @@
-#ifndef __CONSTRAINT_TYPES_H__
-#define __CONSTRAINT_TYPES_H__
+#ifndef __ALLEN_CONSTRAINT_TYPES_H__
+#define __ALLEN_CONSTRAINT_TYPES_H__
 
 #include <cstdint>
 
@@ -80,4 +80,4 @@ ConstraintTypeSet lookup_constraint_transitivity(const ConstraintTypeSet& c0,
 
 } // namespace allen
 
-#endif // __CONSTRAINT_TYPES_H__
+#endif // __ALLEN_CONSTRAINT_TYPES_H__

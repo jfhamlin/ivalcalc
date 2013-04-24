@@ -1,5 +1,5 @@
-#ifndef __NODE_H__
-#define __NODE_H__
+#ifndef __ALLEN_NODE_H__
+#define __ALLEN_NODE_H__
 
 namespace allen {
 
@@ -19,4 +19,4 @@ private:
 
 } // namespace allen
 
-#endif // __NODE_H__
+#endif // __ALLEN_NODE_H__

@@ -1,5 +1,5 @@
-#ifndef __CONSTRAINT_NETWORK_H__
-#define __CONSTRAINT_NETWORK_H__
+#ifndef __ALLEN_CONSTRAINT_NETWORK_H__
+#define __ALLEN_CONSTRAINT_NETWORK_H__
 
 #include "constraint_types.h"
 #include "constraint.h"
@@ -32,4 +32,4 @@ private:
 
 } // namespace allen
 
-#endif // __CONSTRAINT_NETWORK_H__
+#endif // __ALLEN_CONSTRAINT_NETWORK_H__

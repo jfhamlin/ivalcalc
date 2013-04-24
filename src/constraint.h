@@ -1,5 +1,5 @@
-#ifndef __CONSTRAINT_H__
-#define __CONSTRAINT_H__
+#ifndef __ALLEN_CONSTRAINT_H__
+#define __ALLEN_CONSTRAINT_H__
 
 #include "constraint_types.h"
 
@@ -26,4 +26,4 @@ private:
 
 } // namespace allen
 
-#endif // __CONSTRAINT_H__
+#endif // __ALLEN_CONSTRAINT_H__
