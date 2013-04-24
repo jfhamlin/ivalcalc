@@ -5,7 +5,7 @@ OPTFLAGS = -O3
 CC=clang++
 
 HDRS =
-SRCS = constraint_network.cpp constraint_types.cpp
+SRCS = src/constraint_network.cpp src/constraint_types.cpp
 
 .PHONY: clean test
 
